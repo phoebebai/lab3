@@ -1,3 +1,7 @@
 line 1
 line 2
+<<<<<<< HEAD
 line 3 from local
+=======
+line 3 from github
+>>>>>>> a5d3bc7d2790db21089f0a48001f7363a04f3939
